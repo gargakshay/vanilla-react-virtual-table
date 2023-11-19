@@ -3,7 +3,7 @@ import React, { useCallback, useEffect } from 'react';
 import Row from './components/Row';
 import ColumnHeaders from './components/ColumnHeaders';
 
-import useScrollPosition from '../hooks/useScrollPosition';
+import useScrollPosition from '../../hooks/useScrollPosition';
 import useTableProps from './useTableProps';
 
 import { updateTableData } from './helpers/updateTableData';
