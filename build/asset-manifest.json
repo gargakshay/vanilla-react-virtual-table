@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vanilla-react-virtual-table/static/css/main.d757e436.css",
+    "main.js": "/vanilla-react-virtual-table/static/js/main.612614cf.js",
+    "index.html": "/vanilla-react-virtual-table/index.html",
+    "main.d757e436.css.map": "/vanilla-react-virtual-table/static/css/main.d757e436.css.map",
+    "main.612614cf.js.map": "/vanilla-react-virtual-table/static/js/main.612614cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d757e436.css",
+    "static/js/main.612614cf.js"
+  ]
+}

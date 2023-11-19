@@ -4,7 +4,6 @@ export function handleScroll(setScrollPosition, setIsScrollEnd) {
     const isScrollEnd =
       element.scrollTop + element.offsetHeight >= element.scrollHeight;
     setScrollPosition(element.scrollTop);
-    console.log('isScrollEnd', isScrollEnd);
     setIsScrollEnd(isScrollEnd);
   };
 }
