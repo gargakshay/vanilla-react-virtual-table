@@ -1,0 +1,35 @@
+.container {
+  overflow: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  padding: 4px;
+  width: 100px;
+  height: 24px;
+  border: 1px solid black;
+}
+
+.table-header {
+  display: flex;
+}
+
+.predefined-cell {
+  text-align: center;
+  padding: 0 4px;
+  min-width: 56px;
+  border: 1px solid black;
+}
+
+.column-headers {
+  position: sticky;
+  top: 0;
+}
+
+.header {
+  background-color: white;
+  text-align: center;
+}
